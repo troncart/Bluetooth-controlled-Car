@@ -9,6 +9,9 @@
 int incomingByte = 0;     // for incoming serial data
 int enA = 9;              //setting pin 9 as the enable pin of left motor
 int in1 = 5;              //setting pin 5 as the input command for left motor
+int in2 = 4;              //setting pin 4 as the input command for left motor
+int enB = 10;             //setting pin 10 as the enable pin of right motor
+int in3 = 3;              //setting pin 3 as the input command for right motor
 int in4 = 2;              //setting pin 2 as the input command for right motor
 void setup()  
 {
