@@ -1,7 +1,7 @@
 /*********TACHLOG powered********
 *********www.troncart.com*******
 **electronics components online**
-***********E PAPER**************
+***********Bluetooth controlled car**************
 ***********13-035-2019**************
 */
  
